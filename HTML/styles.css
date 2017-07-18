@@ -1,0 +1,11 @@
+body {
+  background-image: url("wall.jpg");
+    ) 
+
+.box{
+  background-color: blue;
+  height: auto;
+  width: 800px;
+  float: center;
+
+}
